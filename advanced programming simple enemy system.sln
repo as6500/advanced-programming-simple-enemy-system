@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advanced programming simple enemy system", "advanced programming simple enemy system\advanced programming simple enemy system.csproj", "{59D69F38-2396-497C-9ED6-44CF22C05E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D69F38-2396-497C-9ED6-44CF22C05E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D69F38-2396-497C-9ED6-44CF22C05E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D69F38-2396-497C-9ED6-44CF22C05E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D69F38-2396-497C-9ED6-44CF22C05E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
